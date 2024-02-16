@@ -1,3 +1,5 @@
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]() [![JFrame Badge](https://img.shields.io/badge/JFrame-007396?style=for-the-badge&logo=java&logoColor=white)]()
+
 # iFriend Contact Manager
 
 In the early days of my coding journey, I introduced one of my first GUI applications – a Contact Manager. Fueled by JFrame, this enduring user-friendly interface simplifies contact management with seamless options for adding, deleting, and editing.
